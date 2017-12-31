@@ -204,8 +204,6 @@ mark {
 }
 code, tt {
 	position: relative;
-	margin: 0 0.334em;
-	padding: 0.334em 0.667em;
 	font-family: 'Inconsolata', monospace, sans-serif;
 	font-size: 0.75em;
 	white-space: pre;
@@ -229,8 +227,6 @@ pre {
 pre code, pre tt {
 	position: static;
 	top: auto;
-	margin: -1.334em -1.334em -1.334em 1.334em;
-	padding: 1.334em;
 	overflow: scroll;
 	font-size: 0.75em;
 	line-height: 2em;
